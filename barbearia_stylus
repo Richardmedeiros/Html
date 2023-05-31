@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Stylus</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body>
+        <div>
+            <img src="logotipo.jpg" alt="logotipo">
+            <h1>O lugar que faz seu estilo</h1>
+            <h2>Venha conhecer nossos serviços e ver todas as vantagens de assinar o nosso plano</h2>
+        </div>
+        <div>
+            <h3>NOSSOS SERVIÇOS</h3>
+            <p>Somos especializados em cortes masculinos oferecendo um serviço moderno e de qualidade. Temos uma grande variedade de tipos
+            de cortes especiais para nossos clientes. Também temos um plano que oferce muitas vantagens para nossa clientela.</p>
+        </div>
+        <div>
+        <h3>CONTATO</h3>
+            <P>você pode entrar em contato conosco através do email <span>contato@barbeariastylus.com</span> ou através do telefone
+            <span>(21) 99999.9999</span> (WhatsApp).</P>
+            <a href="2199999.9999">Fale conosco no WhatsApp</a>
+        </div>
+    </body>
+</html>
+
+
+<-- CSS -->
+
+
+body {
+    font-family: Verdana;
+}
+
+div {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    width: 190px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #606062;
+    padding: 10px;
+    border: 5px solid #606062;
+}
+
+h2 {
+    font-size: 20px;
+    color: #7a797b;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #606062;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 2px solid #606062;
+    border-bottom: 2px solid #606062;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 32px;
+    color: #616163;
+    margin-bottom: 35px;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin-top: 15px;
+    color: #ffffff;
+    background-color: #25d366;
+    border-radius: 25px;
+}
