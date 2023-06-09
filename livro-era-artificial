@@ -36,6 +36,8 @@
     </body>
 </html>
 
+<!-CÓDIGO CSS->
+
 body {
     margin: 0;
     font-family: Tahoma;
