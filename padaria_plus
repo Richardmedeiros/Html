@@ -29,7 +29,7 @@
             <p>Uma viagem para a Itália nos fex conhecer alguns ingredientes que são essesnciais para que a massa de bolo fique macia e gostosa. Hoje temos um produto incomparável.</p>
             <img src="img/bolos.jpg" alt="Imagem dos Bolos">
         </div>
-        <div class="secao">
+        <div class="secao" id="contato">
             <h3>Contato:</h3>
             <p>Estamos localizados na Avenida Santos Agoz, nº 456</p>
             <p>Nosso telefone: <span>(99) 99999.9999</span></p>
